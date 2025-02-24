@@ -1,7 +1,4 @@
-# Microbial_genomic
-Awesome tools for 🦠
-
-# Bioinformatics Tools Repository
+# Bioinformatics Tools Repository (updating🐌)
 
 This repository contains a curated list of bioinformatics tools commonly used in microbial genomic analyses and other scientific research. Each tool listed below includes its version number and a brief description.
 
@@ -10,11 +7,11 @@ This repository contains a curated list of bioinformatics tools commonly used in
 ### [Miniconda] (https://github.com/kaust-rccl/ibex-miniconda-install.git) 
 **Description**: A free minimal installer for conda, a package management and environment management system.
 
-### BLAST
+### [BLAST] (https://www.ncbi.nlm.nih.gov/books/NBK279690/)
 **Description**: Basic Local Alignment Search Tool for comparing nucleotide and protein sequences.
 
 
-### Unicycler
+### [Unicycler] (https://github.com/rrwick/Unicycler#install-from-source)
 **Version**: 0.5.0  
 **Description**: Hybrid assembler for bacterial genomes, combining Illumina and long reads for improved assembly.
 
@@ -38,7 +35,7 @@ This repository contains a curated list of bioinformatics tools commonly used in
 **Version**: 4.0.6  
 **Description**: Metagenomic Phylogenetic Analysis, a tool for profiling microbial communities.
 
-### [FSM-lite](https://github.com/nvalimak/fsm-lite.git)
+### [fsm-lite](https://github.com/nvalimak/fsm-lite.git)
 **Version**: 1.0  
 **Description**: Frequency-based string mining tool for efficient and accurate DNA sequence analysis.
 
